@@ -1,10 +1,10 @@
 const cipher = {
   encode: function(key, message) {
-    key = Number(key);
-    if (typeof key !== 'number' || typeof message !== 'string') {
-      throw new TypeError('Somente letras e números');
+    key = Number(key); // converte a key para número
+    if (typeof key !== 'number' || typeof message !== 'string') { //confere se é letra e numero, trocar para reconhecer somente letras do alfabeto (usar match)
+      throw new TypeError('Somente letras e números'); // no console 
     } else {
-      let encryptMessage = '';
+      let encryptMessage = ''; //variavel para guardar a msg
       for (let i = 0; i < message.length; i++){
         let char = message[i];
         const limit = 'A'.charCodeAt();
