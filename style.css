@@ -1,0 +1,99 @@
+body{
+  background-image: url("./assets/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "A Song for Jennifer";
+  font-size: 30px;  
+}
+
+#main{
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}
+
+h1{
+	background-color: rgba(255, 255, 255, 0.60);
+	border-radius: 10px;
+	text-align: center;
+  width: 700px;
+  margin: 10px;
+}
+
+#introduction {
+  text-align: justify;
+	background-color: rgba(255, 255, 255, 0.70);
+	padding: 10px;
+	border-radius: 10px;
+	display: inline-block;
+  margin: 5px;
+  font-size: 25px;
+}
+
+#displacement {
+  text-align: center;
+	color: white;
+  background-color: rgba(0, 0, 0, 0.75);
+  display: inline-block;
+	padding: 10px;
+	border-radius: 10px;
+  font-size: 25px;
+}
+
+#offset{
+  border-radius: 5px;
+}
+
+#encryption {
+  text-align: center;
+}
+
+#buttons{
+  margin: 10px;
+}
+
+.buttons {
+  text-align: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.75);
+	padding: 10px;
+	border-radius: 10px;
+	display: inline-block;
+  font-family: "A Song for Jennifer";
+  font-size: 20px;
+  margin: 20px;
+}
+
+.buttons:hover{
+  background-color: rgb(142, 143, 158);
+}
+
+.area{
+  background-color: rgba(255, 255, 255, 0.75);
+  border: 10px;
+  border-radius: 5px;
+  resize: none;
+  height: 80px;  
+  width: 800px;
+  font-size: 15px;
+  margin: 20px;
+}
+
+#footer{
+  text-align: left;
+  font-family: 'Secret Code';
+  font-size: 15px;
+  color: white;
+  font-weight: 200;
+}
+
+a:link{
+  text-decoration: none;
+  text-decoration: underline;
+  color: white;
+
+}
+
+a:visited{
+  color: white;
+}
