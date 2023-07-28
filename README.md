@@ -25,7 +25,7 @@ Este é o primeiro projeto de desenvolvimento web do 11º Bootcamp da Laboratór
 
 ## Resumo do projeto
 
-O tema escolhido para desenvolvimento do projeto foi um encontro entre os detetives Sherlock Holmes e Hercule Poirot. A partir da Cifra, eles codificaam mensagens para o caso que estão investigando.
+O tema escolhido para desenvolvimento do projeto foi um encontro entre os detetives Sherlock Holmes e Hercule Poirot. A partir da Cifra, eles codificam mensagens para o caso que estão investigando.
 
 ### Os objetivos gerais deste projeto são os seguintes
 
