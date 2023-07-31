@@ -78,3 +78,8 @@ E as bases da programação para desenvolvimento dos códigos:
 ## Autores
 
 **Erika Peloggia** - <a href="https://github.com/erikapeloggia"> @erikapeloggia</a>
+
+**Imagens:**
+
+* Icon: <a href="https://www.flaticon.com/br/icones-gratis/sherlock-holmes" title="sherlock holmes ícones">Sherlock holmes ícones criados por paulalee - Flaticon</a>
+* Bg: <a href="https://wallhere.com/pt/wallpaper/116457">Wallhere</a>
